@@ -1,3 +1,5 @@
+# Copyright © 2023 Milly Crow. All rights reserved.
+
 import pathlib
 
 def romanization():
